@@ -6,4 +6,6 @@ Article Tutorial: https://medium.com/@beaucarnes/learn-the-mern-stack-by-buildin
 
 This project was used and improved in our Advanced Web Programming class. Great to use as a template for more complex projects or projects that have the potential to be turned into a full-stack application.
 
+To test it, just clone, pull the repository and do npm install and npm start on both frontend and backend.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
